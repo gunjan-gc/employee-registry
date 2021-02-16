@@ -1,0 +1,2 @@
+# employee-registry
+This is a single page employee registry form which uses Php, javaScript, Ajax and Bootstrap. Bootstrap and PHP is used for form validation. Real time validation is done when the person enters information. Employee name can only be between 9-20 characters having no special characters or numbers. Employee number can only have 9 numbers and nothing else. If the user enters department as sales, bonus textbox is enabled and can be edited otherwise it is disabled. Table rows are inserted in different colors according to the information added by the user.
